@@ -3,6 +3,10 @@
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/119512258/227757880-392c6cee-b96d-4fdd-8619-153af3fe0a83.gif"  
 </p>
+
+<h2 align="center">
+  <a href="https://tiagocoder2022.github.io/snapclima/">Check the site here</a>  
+</h2>
   
 ## 🧾 About
 
