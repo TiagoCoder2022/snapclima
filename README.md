@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-  <a href="https://tiagocoder2022.github.io/snapclima/">Check the site here</a>  
+  <a href="https://tiagocoder2022.github.io/snapclima/" target="_blank">Check the site here</a>  
 </h2>
   
 ## 🧾 About
