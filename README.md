@@ -1,7 +1,7 @@
 <h1 align="center">Snapclima🌤️</h1>
 
 <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/119512258/227757880-392c6cee-b96d-4fdd-8619-153af3fe0a83.gif"  
+  <img width="800" src="https://user-images.githubusercontent.com/119512258/227794900-f1de7479-357b-40f5-9e6d-85a756db85c4.gif"  
 </p>
 
 <h2 align="center">
